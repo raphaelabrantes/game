@@ -1,0 +1,4 @@
+Regras:
+
+Fuja da cadeia pulando os obstaculos
+Aperte ESPAÇO para pular
