@@ -1,4 +1,15 @@
 Regras:
 
-Fuja da cadeia pulando os obstaculos
-Aperte ESPAÇO para pular
+Seu objetivo é fugir da cadeia. 
+
+Para fugir você precisa desviar dos obstaculos.
+
+Os obstaculos são drones e barris.
+
+Aperte ESPAÇO para pular.
+
+Quanto mais longe você chegar, maior será sua pontuação.
+
+APERTE O ESC A QUALQUER MOMENTO PARA RETORNAR  AO MENU PRINCIPAL.
+
+
